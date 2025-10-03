@@ -5,4 +5,5 @@
     <title>Projet Artothèque</title>
   </head>
 <body>
-  <print>Hello world</print>
+  <p>Hello world</p>
+</body>
